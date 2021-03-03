@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jermartinezrdz.github.io/ReactJS-API/static/css/main.0b2fd199.chunk.css",
+    "main.js": "/jermartinezrdz.github.io/ReactJS-API/static/js/main.c813c372.chunk.js",
+    "main.js.map": "/jermartinezrdz.github.io/ReactJS-API/static/js/main.c813c372.chunk.js.map",
+    "runtime-main.js": "/jermartinezrdz.github.io/ReactJS-API/static/js/runtime-main.9cf38c11.js",
+    "runtime-main.js.map": "/jermartinezrdz.github.io/ReactJS-API/static/js/runtime-main.9cf38c11.js.map",
+    "static/css/2.150d169a.chunk.css": "/jermartinezrdz.github.io/ReactJS-API/static/css/2.150d169a.chunk.css",
+    "static/js/2.9ce97b47.chunk.js": "/jermartinezrdz.github.io/ReactJS-API/static/js/2.9ce97b47.chunk.js",
+    "static/js/2.9ce97b47.chunk.js.map": "/jermartinezrdz.github.io/ReactJS-API/static/js/2.9ce97b47.chunk.js.map",
+    "index.html": "/jermartinezrdz.github.io/ReactJS-API/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/jermartinezrdz.github.io/ReactJS-API/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.0b2fd199.chunk.css.map": "/jermartinezrdz.github.io/ReactJS-API/static/css/main.0b2fd199.chunk.css.map",
+    "static/js/2.9ce97b47.chunk.js.LICENSE.txt": "/jermartinezrdz.github.io/ReactJS-API/static/js/2.9ce97b47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cf38c11.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.9ce97b47.chunk.js",
+    "static/css/main.0b2fd199.chunk.css",
+    "static/js/main.c813c372.chunk.js"
+  ]
+}
